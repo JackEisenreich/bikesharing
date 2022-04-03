@@ -56,3 +56,7 @@ In general, most rides are taken by males during weekdays during rush hours. Thi
 If it were to conduct more analysis, I would first look at the start sation locations by time. I could create a heat map of where these rides are starting so I can identify that people are mainly going to concentrated business areas in the morning and leaving from concentrated business areas in the afternoon. This could confirm or refute whether business travel is the main use of the bikes.
 
 Another visualization I would look at would be a heat map trips per weekday per hour by birth year. I would like to see if there is an overcoentration of young people using the bikes to get to and from school on weekdays.
+
+
+[link to dashboard](https://public.tableau.com/views/Module14Challenge_16490152141850/BikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/app/profile/jack.eisenreich/viz/Module14Challenge_16490152141850/)
