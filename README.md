@@ -49,7 +49,7 @@ In general most rides are taken by male subscribers on weekdays.
 
 **High level:**
 
-In general, most rides are taken by males during weekdays during rush hours. This may be because men like using the bike sharing to get to and from work more than women. The most amount of rides occur in the evening. This could possibly be because people are using the rides not only to get home from work, but also to travel to other places and to use for exercise in general. Trips on weekends occur more throghout the day; probably because people's weekends are generally less structured.
+In general, most rides are taken by males during weekdays during rush hours. This may be because men like using the bike sharing to get to and from work more than women. The most amount of rides occur in the evening. This could possibly be because people are using the rides not only to get home from work, but also to travel to other places and to use for exercise in general. Trips on weekends occur more throughout the day; probably because people's weekends are generally less structured. If there is a large work population of working men in Des Moines this could be a very successful venture.
 
 **Additional Analysis:**
 
